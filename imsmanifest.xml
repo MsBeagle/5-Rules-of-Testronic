@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_61dQeO1sIG3_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">5 Rules of Testronic</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="5_Rules_of_Testronic_ORG">
+    <organization identifier="5_Rules_of_Testronic_ORG">
+      <title>5 Rules of Testronic</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__61dQeO1sIG3_course_id_RES">
+        <title>5 Rules of Testronic</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__61dQeO1sIG3_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6gV9tWIDU34_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5p0XWcoV2Rg_80_DX110_DY110_CX115_CY115.png" />
+      <file href="mobile/5t5Nz7HfeAg_80_DX94_DY94_CX94_CY98.png" />
+      <file href="mobile/5gUdqy1kcN7_80_P_0_0_1102_1226_DX1252_DY1252_CX707_CY787.png" />
+      <file href="story_content/67w2pD3Rq3b_44100_48_0.mp3" />
+      <file href="story_content/6jJl2cqTdEy_44100_48_0.mp3" />
+      <file href="story_content/6Z59cyHcUhV_44100_48_0.mp3" />
+      <file href="mobile/5WfmfSsTK2W_80_P_0_23_215_263_DX1438_DY1438_CX216_CY264.png" />
+      <file href="story_content/6BAfiVA5nXI_44100_48_0.mp3" />
+      <file href="story_content/5zfFAioblML_44100_48_0.mp3" />
+      <file href="mobile/6OWVmRS5K1u_80_DX2052_DY2052_CX516_CY155.png" />
+      <file href="story_content/6l9mQH2bNVF_44100_48_0.mp3" />
+      <file href="story_content/6PSBwY5tmfM_44100_48_0.mp3" />
+      <file href="mobile/6OWVmRS5K1u_80_DX2052_DY2052_CX1375_CY413.png" />
+      <file href="story_content/5jUdvz9SGvQ_44100_48_0.mp3" />
+      <file href="story_content/5kjLbiWBD0Y_44100_48_0.mp3" />
+      <file href="mobile/6OWVmRS5K1u_80_P_410_0_964_413_DX2052_DY2052_CX965_CY413.png" />
+      <file href="story_content/6pnKtKpuTHh_44100_48_0.mp3" />
+      <file href="story_content/64x5lH086c0_44100_48_0.mp3" />
+      <file href="story_content/5vwLkyUb9l6_44100_48_0.mp3" />
+      <file href="story_content/5YrMxJueek4_44100_48_0.mp3" />
+      <file href="story_content/5XP5XJCXURy_44100_48_0.mp3" />
+      <file href="story_content/6rpcVb7Y4ir_44100_48_0.mp3" />
+      <file href="story_content/6L0i5d0IfBe_44100_48_0.mp3" />
+      <file href="mobile/6BeVsNTbNYe_80_P_0_0_435_412_DX1402_DY1402_CX435_CY413.png" />
+      <file href="story_content/67IluMQHxoX_44100_48_0.mp3" />
+      <file href="story_content/6No7GeEbdoZ_44100_48_0.mp3" />
+      <file href="story_content/6YN1Uf3BbGh_44100_48_0.mp3" />
+      <file href="mobile/6AHVBTzF5Bk_80_P_0_41_429_371_DX1438_DY1438_CX430_CY372.png" />
+      <file href="story_content/6a9cxAtKiQG_44100_48_0.mp3" />
+      <file href="story_content/6ofkIeLzjCt_44100_48_0.mp3" />
+      <file href="story_content/5g4ked9fClv_44100_48_0.mp3" />
+      <file href="story_content/60tlwaIqrdL_44100_48_0.mp3" />
+      <file href="story_content/6YCoDy8Hj2L_44100_48_0.mp3" />
+      <file href="mobile/6orban15lyP_80_P_0_0_276_412_DX1438_DY1438_CX277_CY413.png" />
+      <file href="story_content/6KO84M3RcnV_44100_48_0.mp3" />
+      <file href="story_content/60eGNQ80HKI_44100_48_0.mp3" />
+      <file href="story_content/5WHnGusNb2X_44100_48_0.mp3" />
+      <file href="story_content/6HkYpDAqYD3_44100_48_0.mp3" />
+      <file href="story_content/6eBSrwIZ9Iv_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bXqxEl6IOz.js" />
+      <file href="html5/data/js/6iQJo9SEBct.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
